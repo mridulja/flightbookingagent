@@ -2,6 +2,9 @@
 
 A conversational AI flight booking system powered by OpenAI's GPT-4, built with FastAPI and Gradio. This project simulates a flight booking assistant that can handle natural language queries, provide flight prices, and process bookings.
 
+![image](https://github.com/user-attachments/assets/52b2eb57-7c3d-4b9b-ad39-6a0c885d9037)
+
+
 ## Features
 
 - 🤖 Natural language processing for flight inquiries
